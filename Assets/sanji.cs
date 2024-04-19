@@ -2,24 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class sanji : MonoBehaviour
-{
-    public float tocdo;
-    private bool isfacingRight = true;
-    private Rigidbody2D rb;
-    private Animator ani;
-    private float trai_phai;
-    private senor_sanji groundSensor;
-    private senor_sanji wallSensor1;
-    [SerializeField] float jumpForce = 4.0f;
-    [SerializeField] float rollFroce = 6.0f;
-
-
-    // Start is called before the first frame update
-    
-}
-
-
 //using UnityEngine;
 //using System.Collections;
 
